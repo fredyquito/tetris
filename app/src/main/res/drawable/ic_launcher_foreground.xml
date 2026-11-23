@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono: pieza T + pieza L en la zona segura de 108dp -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- T (magenta) -->
+    <path android:fillColor="#D65CFF" android:pathData="M33,34h13v13h-13z" />
+    <path android:fillColor="#D65CFF" android:pathData="M47,34h13v13h-13z" />
+    <path android:fillColor="#D65CFF" android:pathData="M61,34h13v13h-13z" />
+    <path android:fillColor="#D65CFF" android:pathData="M47,48h13v13h-13z" />
+    <!-- L (naranja) -->
+    <path android:fillColor="#FFB13B" android:pathData="M33,48h13v13h-13z" />
+    <path android:fillColor="#FFB13B" android:pathData="M33,62h13v13h-13z" />
+    <path android:fillColor="#FFB13B" android:pathData="M47,62h13v13h-13z" />
+    <!-- I (cian) vertical -->
+    <path android:fillColor="#36D6F5" android:pathData="M61,48h13v13h-13z" />
+    <path android:fillColor="#36D6F5" android:pathData="M61,62h13v13h-13z" />
+</vector>
